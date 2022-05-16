@@ -1,0 +1,29 @@
+{
+  "name": "blueberry",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "^5.0.0-beta3",
+    "boxicons": "^2.0.9",
+    "gitart-vue-dialog": "^1.0.3",
+    "jquery": "^3.6.0",
+    "material-icons": "^1.2.0",
+    "nodemailer": "^6.7.0",
+    "vue": "^3.2.6",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.2.6",
+    "node-sass": "^6.0.1",
+    "sass": "^1.38.2",
+    "sass-loader": "^12.1.0",
+    "vite": "^2.5.2",
+    "webpack": "^5.51.1"
+  }
+}
