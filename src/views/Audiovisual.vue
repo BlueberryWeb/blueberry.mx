@@ -12,7 +12,7 @@
                     <div class="col-12 col-sm-12 col-lg-9 mt-5">
                         <span class="bb--description">
                             Creamos contenido audiovisual, con videos personalizados que logren capturar el alma, esencia y las cualidades únicas de tu marca. 
-                            Englobando en un video la grandeza de tu proyecto, producto o servicio.
+                            
                         </span> <br>
 
                         <button @click="redirect('portafolio')" type="button" class="btn btn-outline-light my-5 p-2 px-3">
